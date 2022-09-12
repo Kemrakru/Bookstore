@@ -1,0 +1,7 @@
+{"_id":"759de3eab5fc74a542b3c687f1419b7e58c7a310","name":"My Wishlist","books":[],"default":true,"userId":"8b3216f275c7543fccb80e9b3f54726ae75ffc13"}
+{"_id":"1ef5fb91f5875c4811db45f24abc4ccfd1e46b94","name":"My Wishlist","books":[],"default":true,"userId":"881c9466026c71317500cc2d7f309e252699c070"}
+{"_id":"c54abcc49918e8ef9c49ef5ad77c6bd96ac1bce6","name":"My Wishlist","books":[],"default":true,"userId":"eef46787e713c7aa95b9d210dcc7d3b21a9ce4d5"}
+{"_id":"f269990746086ac6e3db5961bfe049136bd09ee4","name":"Xmas WL","books":[],"default":false,"userId":"881c9466026c71317500cc2d7f309e252699c070"}
+{"_id":"00b9c0749b75d569e146c3a589308d3e9b102410","name":"My Wishlist","books":[{"_id":"851fa4c8050131204bae75595e94c60985f08b67","title":"The Last Olympian","available":true,"amount":{"$numberInt":"27"},"cover":"4556058.jpg","authors":["Rick Riordan"],"price":{"$numberInt":"1440"}}],"default":true,"userId":"20e2b190ac0c6639b6557736a0557433128bd1b7"}
+{"_id":"4b504bafb01c62002c4468e96663283681848b2c","name":"За купити","books":[],"default":false,"userId":"20e2b190ac0c6639b6557736a0557433128bd1b7"}
+{"_id":"6517e6507d9c0050619e031f56480e704bc7d337","name":"Чекам попуст","books":[],"default":false,"userId":"20e2b190ac0c6639b6557736a0557433128bd1b7"}
